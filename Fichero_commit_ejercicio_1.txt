@@ -1,1 +1,4 @@
 Primer fichero del ejercicio de Git.
+
+git config --global user.email "rmarinesmiax9@gmail.com"
+git config --global user.name "RMR-miaX-9"
